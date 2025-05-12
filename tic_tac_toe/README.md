@@ -21,4 +21,4 @@ A simple version of the classic Tic-Tac-Toe game written in Python.
 python tic_tac_toe.py
 
 # Author
-This project was created by S1rS1m0n.
+This project was created by S1rS1m0n-2006.

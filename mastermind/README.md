@@ -18,4 +18,4 @@ A simple version of the classic Mastermind game written in Python.
 python mastermind.py
 
 # Author
-This project was created by S1rS1m0n.
+This project was created by S1rS1m0n-2006.
