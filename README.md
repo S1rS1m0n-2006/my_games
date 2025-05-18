@@ -6,4 +6,4 @@ A collection of simple games written in Python.
 - Tic-Tac-Toe (Tris)
 
 # Author
-These games were developed by S1rS1m0n-2006.
+These games were developed by sir-s1m0n.
